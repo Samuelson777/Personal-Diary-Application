@@ -35,10 +35,10 @@ Delete a Diary Entry:
 ## Enhancements
 Future improvements could include:
 
-Editing existing diary entries.
-Searching for entries by keywords.
-Implementing a graphical user interface (GUI).
-Adding user authentication for privacy.
+- Editing existing diary entries.
+- Searching for entries by keywords.
+- Implementing a graphical user interface (GUI).
+- Adding user authentication for privacy.
 
 ## Conclusion
 The Personal Diary Application project is a practical and engaging way to enhance your programming skills while creating a useful tool for personal reflection and record-keeping. By implementing this application, you have learned how to:
