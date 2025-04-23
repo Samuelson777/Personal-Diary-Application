@@ -22,7 +22,7 @@ Add a Diary Entry:
 
 View Diary Entries:
 
-- 2023-10-01: Today was a great day!
+- 2025-03-01: Today was a great day!
 
 Delete a Diary Entry:
 
