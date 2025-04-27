@@ -60,3 +60,6 @@ Overall, the Personal Diary Application is a great starting point for anyone loo
 ## Acknowledgments
 - Inspired by the need for personal reflection and journaling.
 - Thanks to the open-source community for their resources and support.
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/Samuelson777/Personal-Diary-Application/blob/main/LICENSE) file for details.
